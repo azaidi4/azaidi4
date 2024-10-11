@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Hi, I'm Ahmad Zaidi
+
+I'm a **Software Engineer** with a strong focus on building scalable, client-facing applications in the fintech industry. 
+
+My expertise lies in full-stack development with a particular emphasis on **⚛️ React**, I have worked with mutiple languages on the server side - **💎 Ruby**, **🐹 Go**, **🟢 Node.js**, and **☕ Java**.
+
+**Some things I've been working on...**
+- [Ingrezy](#) - Ingredient-Based Recipe Suggestions 🍽️ (Blazor + OpenAI)
+- [footyhead](https://github.com/azaidi4/footyhead) - 2D Soccer Based Multiplayer Game ⚽ (Phaser w/ Matter.js + Colyseus)
 
 <!--
 **azaidi4/azaidi4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
