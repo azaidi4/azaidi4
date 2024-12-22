@@ -2,7 +2,7 @@
 
 I'm a **Software Engineer** with a strong focus on building scalable, client-facing applications in the fintech industry. 
 
-My expertise lies in full-stack development with a particular emphasis on **⚛️ React**, I have worked with mutiple languages on the server side - **💎 Ruby**, **🐹 Go**, **🟢 Node.js**, and **☕ Java**.
+My expertise lies in full-stack development with a particular emphasis on **⚛️ React**, I have worked with multiple languages on the server side - **💎 Ruby**, **🐹 Go**, **🟢 Node.js**, and **☕ Java**.
 
 **Some things I've been working on...**
 - [ingrEZ](https://github.com/azaidi4/ingrEZ) - Ingredient-Based Recipe Suggestions 🍽️ (Blazor + Gemini)
